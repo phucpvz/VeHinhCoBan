@@ -1,0 +1,6 @@
+D:\Projects\Data\VeHinhCoBan\Nhom17.ThuVienDoHoa\bin\Debug\Nhom17.ThuVienDoHoa.dll
+D:\Projects\Data\VeHinhCoBan\Nhom17.ThuVienDoHoa\bin\Debug\Nhom17.ThuVienDoHoa.pdb
+D:\Projects\Data\VeHinhCoBan\Nhom17.ThuVienDoHoa\obj\Debug\Nhom17.ThuVienDoHoa.csproj.CoreCompileInputs.cache
+D:\Projects\Data\VeHinhCoBan\Nhom17.ThuVienDoHoa\obj\Debug\Nhom17.ThuVienDoHoa.dll
+D:\Projects\Data\VeHinhCoBan\Nhom17.ThuVienDoHoa\obj\Debug\Nhom17.ThuVienDoHoa.pdb
+D:\Projects\Data\VeHinhCoBan\Nhom17.ThuVienDoHoa\obj\Debug\Nhom17.ThuVienDoHoa.csprojAssemblyReference.cache

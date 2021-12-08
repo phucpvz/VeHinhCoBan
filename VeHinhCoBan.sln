@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VeHinhCoBan", "VeHinhCoBan\VeHinhCoBan.csproj", "{F28C415A-CD58-4AF6-AFA6-470438361A3E}"
+	ProjectSection(ProjectDependencies) = postProject
+		{047A3CD4-EFE4-4141-9960-1DC169D4D435} = {047A3CD4-EFE4-4141-9960-1DC169D4D435}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D18CQCN01N_Nhom17.ThuVienDoHoa", "D18CQCN01N_Nhom17.ThuVienDoHoa\D18CQCN01N_Nhom17.ThuVienDoHoa.csproj", "{047A3CD4-EFE4-4141-9960-1DC169D4D435}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F28C415A-CD58-4AF6-AFA6-470438361A3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28C415A-CD58-4AF6-AFA6-470438361A3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28C415A-CD58-4AF6-AFA6-470438361A3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28C415A-CD58-4AF6-AFA6-470438361A3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{047A3CD4-EFE4-4141-9960-1DC169D4D435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{047A3CD4-EFE4-4141-9960-1DC169D4D435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{047A3CD4-EFE4-4141-9960-1DC169D4D435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{047A3CD4-EFE4-4141-9960-1DC169D4D435}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DEE3C5D-D3E1-4308-A30E-C7136AE49F09}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+D:\Projects\Data\VeHinhCoBan\D18CQCN01N_Nhom17.ThuVienDoHoa\bin\Release\D18CQCN01N_Nhom17.ThuVienDoHoa.dll
+D:\Projects\Data\VeHinhCoBan\D18CQCN01N_Nhom17.ThuVienDoHoa\bin\Release\D18CQCN01N_Nhom17.ThuVienDoHoa.pdb
+D:\Projects\Data\VeHinhCoBan\D18CQCN01N_Nhom17.ThuVienDoHoa\obj\Release\D18CQCN01N_Nhom17.ThuVienDoHoa.csprojAssemblyReference.cache
+D:\Projects\Data\VeHinhCoBan\D18CQCN01N_Nhom17.ThuVienDoHoa\obj\Release\D18CQCN01N_Nhom17.ThuVienDoHoa.csproj.CoreCompileInputs.cache
+D:\Projects\Data\VeHinhCoBan\D18CQCN01N_Nhom17.ThuVienDoHoa\obj\Release\D18CQCN01N_Nhom17.ThuVienDoHoa.dll
+D:\Projects\Data\VeHinhCoBan\D18CQCN01N_Nhom17.ThuVienDoHoa\obj\Release\D18CQCN01N_Nhom17.ThuVienDoHoa.pdb
